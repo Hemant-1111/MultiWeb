@@ -20,6 +20,7 @@ public class Client {
         toSocket.close();
         fromSocket.close();
         socket.close();
+        //added the comment
     }
     
     public static void main(String[] args) {
